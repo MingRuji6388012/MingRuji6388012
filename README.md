@@ -18,20 +18,14 @@ What do I currently learn?
 
 ***c***
 
-`
     printf("Hello World");
     
     return 0;
     
-`
 
 
-
-  ***Java (Currently learning)***
+ ***Java (Currently learning)***
   
-`
-
-        System.out.print("Hello World");
-        
- `  
+    System.out.print("Hello World");
+          
 
