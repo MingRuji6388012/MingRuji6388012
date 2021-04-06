@@ -12,4 +12,4 @@ I'm trying to make GitHub page!
 
 ### ___This is the link___ ###
 ---------------------------------
-![My GitHub Portfolio]https://mingruji6388012.github.io/markdown-portfolio/
+![My GitHub Portfolio](https://mingruji6388012.github.io/markdown-portfolio/)
