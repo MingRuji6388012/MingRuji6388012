@@ -18,7 +18,8 @@ What do I currently learn?
 
 `C`
 
-` #include<stdio.h>
+` 
+  #include<stdio.h>
 
   int main(){
 
@@ -33,7 +34,8 @@ What do I currently learn?
 
 `Java` ***Currently learning***
 
-`public class Main{
+`
+  public class Main{
     
     public static void main(String[] args){
     
