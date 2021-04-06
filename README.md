@@ -16,32 +16,20 @@ I'm trying to make GitHub page!
 
 What do I currently learn?
 
-`C
-
-  #include<stdio.h>
-
-  int main(){
-
+`
+C
     printf("Hello World");
 
     return 0;
   
-  }
   
 `
 
 
-`Java ***Currently learning***
+`
+  Java ***Currently learning***
 
-
-  public class Main{
-    
-    public static void main(String[] args){
-    
         System.out.print("Hello World");
-    
-    }
- 
- }
+   
  
 `
