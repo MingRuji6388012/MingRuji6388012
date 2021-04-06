@@ -16,20 +16,16 @@ I'm trying to make GitHub page!
 
 What do I currently learn?
 
+***c***
 `
-C
     printf("Hello World");
-
     return 0;
-  
-  
 `
 
 
-`
+
   Java ***Currently learning***
-
-        System.out.print("Hello World");
-   
- 
 `
+        System.out.print("Hello World");
+ `  
+
