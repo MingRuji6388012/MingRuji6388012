@@ -16,9 +16,8 @@ I'm trying to make GitHub page!
 
 What do I currently learn?
 
-`C`
+`C
 
-` 
   #include<stdio.h>
 
   int main(){
@@ -32,9 +31,9 @@ What do I currently learn?
 `
 
 
-`Java` ***Currently learning***
+`Java ***Currently learning***
 
-`
+
   public class Main{
     
     public static void main(String[] args){
