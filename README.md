@@ -31,5 +31,9 @@ return 0;
 ``` 
 System.out.print("Hello World");
 ```
-          
-
+       
+ ***Python***
+ 
+``` 
+print('Hello World')
+```
