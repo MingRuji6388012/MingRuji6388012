@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MingRuji6388012
-- 👀 I’m interested in: Front-end development & Blockchain 
-- 🌱 I’m currently learning: OOP & CS50 & some web programming
+- 👀 I’m interested in: Data science and UX/UI Design 
+- 🌱 I’m currently learning: Data analysis
 - 💞️ I’m looking to collaborate on: TBA
 - 📫 How to reach me: feel free to email me
 
