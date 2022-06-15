@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MingRuji6388012
-- 👀 I’m interested in: Data science and UX/UI Design 
-- 🌱 I’m currently learning: Data analysis
+- 👀 I’m interested in: UX/UI Design 
+- 🌱 I’m currently learning: UX Research
 - 💞️ I’m looking to collaborate on: TBA
-- 📫 How to reach me: feel free to email me
+- 📫 How to reach me: TBA
 
 <!---
 MingRuji6388012/MingRuji6388012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
