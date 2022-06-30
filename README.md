@@ -2,7 +2,7 @@
 - 👀 I’m interested in: UX/UI Design 
 - 🌱 I’m currently learning: UX Research
 - 📫 How to reach me: 
-      My Medium Article: https://medium.com/@MingRuji
+- My Medium Article: https://medium.com/@MingRuji
 
 <!---
 MingRuji6388012/MingRuji6388012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
