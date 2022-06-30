@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MingRuji6388012
 - 👀 I’m interested in: UX/UI Design 
 - 🌱 I’m currently learning: UX Research
-- 📫 How to reach me: 
 - My Medium Article: https://medium.com/@MingRuji
 
 <!---
